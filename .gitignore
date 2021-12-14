@@ -1,0 +1,5 @@
+node_modules
+prepare
+sqlgenerator
+axios-request.js
+.env
